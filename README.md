@@ -1,7 +1,9 @@
 # gafanhoto
-bot em python para verificar foruns de promoções
+
+Bot em python para verificar foruns de promoções. Atualmente verific o http://www.hardmob.com.br/promocoes/ e http://adrenaline.uol.com.br/forum/forums/for-sale.221/ .
 
 # Instalação (Windows)
+
 1) Baixe e instale o python 2.x https://www.python.org/downloads/
 
 2) Baixe o arquivo https://bootstrap.pypa.io/get-pip.py e execute python get-pip.py
