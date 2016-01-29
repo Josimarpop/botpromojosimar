@@ -1,6 +1,6 @@
 # gafanhoto
 
-Bot em python para verificar foruns de promoções. Atualmente verific o http://www.hardmob.com.br/promocoes/ e http://adrenaline.uol.com.br/forum/forums/for-sale.221/ .
+Bot em python para verificar foruns de promoções. Atualmente verifica os links http://www.hardmob.com.br/promocoes/ e http://adrenaline.uol.com.br/forum/forums/for-sale.221/ .
 
 # Instalação (Windows)
 
