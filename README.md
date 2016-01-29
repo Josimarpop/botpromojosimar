@@ -13,3 +13,5 @@ bot em python para verificar foruns de promoções
 # Utilização
 
 Basta chamar o script com o comando **python gafanhoto.py**. O arquivo gafanhoto.spy serve para os filtros, separados por quebra de linha. 
+
+No Windows criei um bat (consulta.bat) para fazer a chamada e abrir o arquivo gerado. Para Linux pode-se seguir a mesma ideia ;p.
