@@ -9,3 +9,7 @@ bot em python para verificar foruns de promoções
 3) Execute no terminal: C:\Python27\Scripts\pip install beautifulsoup4
 
 4) Execute no terminal: C:\Python27\Scripts\pip install requests
+
+# Utilização
+
+Basta chamar o script com o comando *python gafanhoto.py*. O arquivo gafanhoto.spy serve para os filtros, separados por quebra de linha. 
