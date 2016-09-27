@@ -6,14 +6,16 @@ Bot em python para verificar foruns de promoções. Atualmente verifica os links
 
 1) Baixe e instale o python 2.x https://www.python.org/downloads/
 
-2) Baixe o arquivo https://bootstrap.pypa.io/get-pip.py e execute python get-pip.py
+2) Execute no terminal: C:\Python27\Scripts\pip install beautifulsoup4
 
-3) Execute no terminal: C:\Python27\Scripts\pip install beautifulsoup4
+3) Execute no terminal: C:\Python27\Scripts\pip install requests
 
-4) Execute no terminal: C:\Python27\Scripts\pip install requests
+# Instalação (Linux)
+
+1) Baixe e instale o beautifulsoup4 com o python de sua preferência. pip install beautifulsoup4 ou pip3 install beautifulsoup4
 
 # Utilização
 
 Basta chamar o script com o comando **python gafanhoto.py**. O arquivo gafanhoto.spy serve para os filtros, separados por quebra de linha. 
 
-No Windows criei um bat (bot.bat) para fazer a chamada e abrir o arquivo gerado. Para Linux pode-se seguir a mesma ideia ;p.
+No Windows criei um bat (bot.bat) para fazer a chamada e abrir o arquivo gerado. Para Linux pode-se seguir a mesma ideia.
